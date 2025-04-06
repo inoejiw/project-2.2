@@ -86,7 +86,7 @@ body {
 }
 
 .hero {
-    background-image: url(/asset/hero.jpg);
+    background-image: url(asset/hero.jpg);
     height: 350px;
     background-size: cover;
     background-position: 0 -90px;
